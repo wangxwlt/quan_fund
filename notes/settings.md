@@ -1,0 +1,2 @@
+- activate the virtualenv
+  - source ~/Codes/envs/funds/bin/activate
